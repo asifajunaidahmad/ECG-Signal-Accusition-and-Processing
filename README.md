@@ -81,18 +81,6 @@ If you will be using the HC-06 Bluetooth module, you need to change the baud rat
 - PSD analysis of R-R tachogram
 <br><br>
 
-## Citing the Project
-```
-@misc{ECG2020,
-  author = {Cosdu, M. M. and Oguten, Samet and Kabas, Bilal},
-  title = "{ECG Signal Acquisition and Data Processing}",
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  url = {https://github.com/Impulse-Response/ECG-Signal-Acquisition-and-Data-Processing},
-  doi = {10.5281/zenodo.5670914}
-}
-```
 
 <h2>⚠️ Disclaimer</h2>
 
